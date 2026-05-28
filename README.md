@@ -31,7 +31,7 @@ Trying to build a lot of things.
 - [politics](https://edition.cnn.com)
 - [English slang](https://en.wikipedia.org/wiki/Glossary_of_2020s_slang)
 - [existential crisis](https://en.wikipedia.org/wiki/Existential_crisis)
-- [AI language companion](momo.md)
+- [AI language companion](/momo)
 
    <img width="250" height="250" alt="S__32546882" src="https://github.com/user-attachments/assets/4b96d9de-99b7-4ae3-a49a-a4c301bc300d" />
 
