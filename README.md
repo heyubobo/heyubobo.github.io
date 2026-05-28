@@ -3,7 +3,7 @@
 <div style="width:250px; position:sticky; top:20px;">
 
 <img src="images/bobo.jpeg" width="200" height="200" style="border-radius:50%;">
-
+    
 ---
 
 # Yubo
