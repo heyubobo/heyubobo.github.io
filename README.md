@@ -1,5 +1,3 @@
-# Yubo
-
 unknown writer / influenced by international relations / programmer in progress
 
 ---
