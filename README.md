@@ -4,7 +4,7 @@ unknown writer / influenced by international relations / programmer in progress
 
 ---
 
-# Welcome
+## Welcome
 
 All about me.. I guess
 
