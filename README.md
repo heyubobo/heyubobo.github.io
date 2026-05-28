@@ -1,3 +1,56 @@
+<div style="display:flex; gap:40px; align-items:flex-start;">
+
+<div style="width:250px; position:sticky; top:20px;">
+
+<img src="images/bobo.jpeg" width="200" height="200" style="border-radius:50%;">
+
+
+All about me.. I guess
+
+---
+
+# Yubo
+
+unknown writer / influenced by international relations / programmer in progress
+
+---
+
+📍 China → Japan
+
+🌏 interested in politics, literature, technology
+
+☕ building things slowly
+
+</div>
+
+<div>
+
+# Welcome
+
+This is my personal website.
+
+I write about:
+
+- daily life
+- coding
+- international relations
+- random thoughts
+
+---
+
+## Recent Notes
+
+### Momo Project
+
+Trying to build my first AI companion.
+
+### Learning HTML
+
+Still confused, but making progress.
+
+</div>
+
+</div>
 
 All about me.. I guess
 
