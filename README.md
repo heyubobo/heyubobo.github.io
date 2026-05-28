@@ -1,12 +1,11 @@
-
 All about me.. I guess
-
-unknown writer / influenced by international relations / programmer in progress
 
 ---
 
 ## About Me
 
+> unknown writer / influenced by international relations / programmer in progress<br>
+<br>
 Born and raised in China.<br>
 Previously worked in publishing.<br>
 Currently living in Japan.<br>
