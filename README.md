@@ -4,9 +4,6 @@
 
 <img src="images/bobo.jpeg" width="200" height="200" style="border-radius:50%;">
 
-
-All about me.. I guess
-
 ---
 
 # Yubo
@@ -15,52 +12,6 @@ unknown writer / influenced by international relations / programmer in progress
 
 ---
 
-📍 China → Japan
-
-🌏 interested in politics, literature, technology
-
-☕ building things slowly
-
-</div>
-
-<div>
-
-# Welcome
-
-This is my personal website.
-
-I write about:
-
-- daily life
-- coding
-- international relations
-- random thoughts
-
----
-
-## Recent Notes
-
-### Momo Project
-
-Trying to build my first AI companion.
-
-### Learning HTML
-
-Still confused, but making progress.
-
-</div>
-
-</div>
-
-All about me.. I guess
-
----
-
-# Yubo
-
-unknown writer / influenced by international relations / programmer in progress
-
----
 ## About Me
 
 Born and raised in China.<br>
@@ -68,6 +19,14 @@ Previously worked in publishing.<br>
 Currently living in Japan.<br>
 <br>
 Trying to build a lot of things.
+
+</div>
+
+<div style="max-width:700px;">
+
+# Welcome
+
+All about me.. I guess
 
 ---
 
@@ -86,8 +45,14 @@ Trying to build a lot of things.
 - [existential crisis](https://en.wikipedia.org/wiki/Existential_crisis)
 - [Build my AI language companion: Momo](/momo)
 
-   <img width="250" height="250" alt="S__32546882" src="https://github.com/user-attachments/assets/4b96d9de-99b7-4ae3-a49a-a4c301bc300d" />
+<br>
+
+<img width="250" height="250" alt="Momo" src="https://github.com/user-attachments/assets/4b96d9de-99b7-4ae3-a49a-a4c301bc300d" />
 
 ---
 
 > Sometimes I dream too much.
+
+</div>
+
+</div>
