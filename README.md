@@ -1,4 +1,3 @@
-# heyubobo.github.io
 
 All about me.. I guess
 
@@ -6,7 +5,7 @@ All about me.. I guess
 
 # Yubo
 
-writer / international relations / programmer in progress
+unknown writer / influenced by international relations / programmer in progress
 
 ---
 
@@ -31,7 +30,8 @@ Trying to build a lot of things.
 - [politics](https://edition.cnn.com)
 - [English slang](https://en.wikipedia.org/wiki/Glossary_of_2020s_slang)
 - [existential crisis](https://en.wikipedia.org/wiki/Existential_crisis)
-- ![cat](https://placekitten.com/300/300)
+
+   <img width="250" height="250" alt="S__32546882" src="https://github.com/user-attachments/assets/4b96d9de-99b7-4ae3-a49a-a4c301bc300d" />
 
 ---
 
