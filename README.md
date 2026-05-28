@@ -2,8 +2,7 @@ All about me.. I guess
 
 ---
 
-## About Me
-
+## About Me 
 > unknown writer / influenced by international relations / programmer in progress<br>
 <br>
 Born and raised in China.<br>
