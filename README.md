@@ -1,11 +1,3 @@
-<div style="display:flex; gap:40px; align-items:flex-start;">
-
-<div style="width:250px; position:sticky; top:20px;">
-
-<img src="images/bobo.jpeg" width="200" height="200" style=" border-radius:50%; object-fit:cover; display:block; ">
-    
----
-
 # Yubo
 
 unknown writer / influenced by international relations / programmer in progress
