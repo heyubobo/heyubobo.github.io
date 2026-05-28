@@ -11,8 +11,10 @@ unknown writer / influenced by international relations / programmer in progress
 
 ## About Me
 
-Chinese. Living in Japan.
-
+Born and raised in China.<br>
+Previously worked in publishing.<br>
+Currently living in Japan.<br>
+<br>
 Trying to build a lot of things.
 
 ---
