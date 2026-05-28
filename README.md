@@ -3,8 +3,8 @@ All about me.. I guess
 ---
 
 ## About Me 
-> unknown writer / influenced by international relations / programmer in progress<br>
-<br>
+> unknown writer / influenced by international relations / programmer in progress
+
 Born and raised in China.<br>
 Previously worked in publishing.<br>
 Currently living in Japan.<br>
