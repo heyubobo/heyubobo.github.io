@@ -1,8 +1,7 @@
-unknown writer / influenced by international relations / programmer in progress
-
----
 
 All about me.. I guess
+
+unknown writer / influenced by international relations / programmer in progress
 
 ---
 
