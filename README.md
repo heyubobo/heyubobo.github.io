@@ -3,13 +3,13 @@ All about me.. I guess
 
 ---
 
-# Yubo
+# About Me
+
+---
 
 unknown writer / influenced by international relations / programmer in progress
 
 ---
-
-## About Me
 
 Born and raised in China.<br>
 Previously worked in publishing.<br>
@@ -19,14 +19,14 @@ Trying to build a lot of things.
 
 ---
 
-## Posts
+# Posts
 
 - [First Post](posts/first.md)
 - [Dream Journal](posts/dream.md)
 
 ---
 
-## Current Obsessions
+# Current Obsessions
 
 - [marine biology](https://en.wikipedia.org/wiki/Marine_biology)
 - [politics](https://edition.cnn.com)
