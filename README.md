@@ -12,6 +12,12 @@ unknown writer / influenced by international relations / programmer in progress
 
 ---
 
+# Welcome
+
+All about me.. I guess
+
+---
+
 ## About Me
 
 Born and raised in China.<br>
@@ -19,14 +25,6 @@ Previously worked in publishing.<br>
 Currently living in Japan.<br>
 <br>
 Trying to build a lot of things.
-
-</div>
-
-<div style="max-width:700px;">
-
-# Welcome
-
-All about me.. I guess
 
 ---
 
@@ -53,6 +51,3 @@ All about me.. I guess
 
 > Sometimes I dream too much.
 
-</div>
-
-</div>
