@@ -15,18 +15,15 @@ Trying to build a lot of things.
 
 ## Posts
 
-- [First Post](posts/first.md)
-- [Dream Journal](posts/dream.md)
+- [TBC](posts/first.md)
+- [TBC](posts/dream.md)
 
 ---
 
 ## Current Obsessions
 
-- [marine biology](https://en.wikipedia.org/wiki/Marine_biology)
-- [politics](https://edition.cnn.com)
-- [English slang](https://en.wikipedia.org/wiki/Glossary_of_2020s_slang)
-- [existential crisis](https://en.wikipedia.org/wiki/Existential_crisis)
-- [Build my AI language companion: Momo](/momo)
+- [Photography/RedNote](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
+- [(Suspend)Build my AI language companion: Momo](/momo)
 
 <br>
 
