@@ -3,7 +3,6 @@ All about me.. I guess
 ---
 
 ## About Me 
-> unknown writer / influenced by international relations / programmer in progress
 
 Born and raised in China.<br>
 Previously worked in publishing.<br>
@@ -23,7 +22,7 @@ Trying to build a lot of things.
 ## Current Obsessions
 
 - [Photography/RedNote](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
-- [(Suspend)Build my AI language companion: Momo](/momo)
+- [(in progress)Build my AI language companion: Momo](/momo)
 
 <br>
 
@@ -31,5 +30,5 @@ Trying to build a lot of things.
 
 ---
 
-> Sometimes I dream too much.
+> Work Hard Play Harder
 
