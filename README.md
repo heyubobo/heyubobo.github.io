@@ -25,6 +25,7 @@ Trying to build a lot of things.
 - Pinao
 - Sweets
 - FIFA
+- Gettysburg Address
 - [(in progress)Build my AI language companion: Momo](/momo)
   
 ---
