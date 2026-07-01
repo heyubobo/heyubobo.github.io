@@ -21,7 +21,7 @@ Trying to build a lot of things.
 
 ## Posts
 
-- [Who's Luoguihua/罗桂花？](posts/first.md)
+- [Who Is Luoguihua (罗桂花)?](posts/first.md)
 - [TBC](posts/dream.md)
 
 <br>
