@@ -22,7 +22,7 @@ Trying to build a lot of things.
 - Traveling
 - Hiking
 - Koto
-- Pinao
+- Piano
 - Sweets
 - FIFA
 - Gettysburg Address
