@@ -12,17 +12,17 @@ Trying to build a lot of things.
 
 ---
 
-## Posts
-
-- [TBC](posts/first.md)
-- [TBC](posts/dream.md)
-
----
-
 ## Current Obsessions
 
-- [Photography/RedNote](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
+- [Photography: RedNoteID 转生成为罗桂花](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
 - [(in progress)Build my AI language companion: Momo](/momo)
+  
+---
+
+## Posts
+
+- [Who's Luoguihua/罗桂花？](posts/first.md)
+- [TBC](posts/dream.md)
 
 <br>
 
