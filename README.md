@@ -24,6 +24,7 @@ Trying to build a lot of things.
 - Koto
 - Pinao
 - Sweets
+- FIFA
 - [(in progress)Build my AI language companion: Momo](/momo)
   
 ---
