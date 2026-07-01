@@ -9,11 +9,12 @@ Previously worked in publishing.<br>
 Currently living in Japan.<br>
 <br>
 Trying to build a lot of things.
-
+  
 ---
-## Link
-- [RedNote:转生成为罗桂花](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
-- [Instagram:heyubobo](https://www.instagram.com/heyubobo/)
+
+## Posts
+
+- [Who Is Luoguihua (罗桂花)?](posts/first.md)
 
 ---
 ## Current Obsessions
@@ -27,12 +28,11 @@ Trying to build a lot of things.
 - FIFA
 - Gettysburg Address
 - [(in progress)Build my AI language companion: Momo](/momo)
-  
+
 ---
-
-## Posts
-
-- [Who Is Luoguihua (罗桂花)?](posts/first.md)
+## Link
+- [RedNote:转生成为罗桂花](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
+- [Instagram:heyubobo](https://www.instagram.com/heyubobo/)
 
 <br>
 
