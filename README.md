@@ -22,7 +22,6 @@ Trying to build a lot of things.
 ## Posts
 
 - [Who Is Luoguihua (罗桂花)?](posts/first.md)
-- [TBC](posts/dream.md)
 
 <br>
 
