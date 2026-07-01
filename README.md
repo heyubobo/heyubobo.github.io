@@ -17,6 +17,11 @@ Trying to build a lot of things.
 - [Who Is Luoguihua (罗桂花)?](posts/first.md)
 
 ---
+## Link
+- [RedNote:转生成为罗桂花](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
+- [Instagram:heyubobo](https://www.instagram.com/heyubobo/)
+
+---
 ## Current Obsessions
 - Photography
 - Writing
@@ -28,11 +33,6 @@ Trying to build a lot of things.
 - FIFA
 - Gettysburg Address
 - [(in progress)Build my AI language companion: Momo](/momo)
-
----
-## Link
-- [RedNote:转生成为罗桂花](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
-- [Instagram:heyubobo](https://www.instagram.com/heyubobo/)
 
 <br>
 
