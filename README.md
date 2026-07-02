@@ -18,8 +18,8 @@ Trying to build a lot of things.
 
 ---
 ## Link
-- [RedNote:转生成为罗桂花](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
-- [Instagram:heyubobo](https://www.instagram.com/heyubobo/)
+- [RedNote: Love_Luoguihua 转生成为罗桂花 ](https://www.xiaohongshu.com/user/profile/5747f6244775a725289a7755)
+- [Instagram: heyubobo ](https://www.instagram.com/heyubobo/)
 
 ---
 ## Current Obsessions
