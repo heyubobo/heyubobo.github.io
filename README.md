@@ -40,5 +40,5 @@ Trying to build a lot of things.
 
 ---
 
-> Work Hard Play Harder
+> Work Hard & Play Harder
 
