@@ -18,8 +18,6 @@ It was the most heartfelt and straightforward support I have ever received from 
 
 Today, I work in Japan in international relations. My job sometimes requires me to deal with difficult political issues and even to push back against my own government's position when I believe it is being unnecessarily harsh toward Japan. Over the years, I have become much more open-minded. I have learned to understand different perspectives, and I am still learning every day.
 
-The words my late grandmother spoke to me have become an increasingly solid source of comfort. The farther I go in my career—working through complicated international problems and balancing the interests of different stakeholders—the more often I think of her advice.
+But the words my late grandmother spoke to me have become an increasingly steady source of comfort. The further I go in my career—working through complex international issues and balancing the interests of different stakeholders—the more often I find myself thinking of her advice. Whenever I begin to doubt myself, I return to her words. They remind me to trust my own judgment, stay true to my convictions, and have the courage to become the person I truly want to be.
 
-Whenever I question myself, I return to her words. They remind me to trust my own judgment, stay true to my convictions, and have the courage to become the person I genuinely want to be.
-
-Looking back, that short conversation on Orange Isle may have shaped my life more than either of us could have imagined.
+Looking back, that brief conversation on Orange Isle may have shaped my life far more than either of us could have imagined. And Luoguihua will continue to live on—in my memories, and in all the love I carry for her in my heart.
