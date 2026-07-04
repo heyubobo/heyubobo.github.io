@@ -20,4 +20,4 @@ Today, I work in Japan in international relations. My job sometimes requires me 
 
 But the words my late grandmother spoke to me have become an increasingly steady source of comfort. The further I go in my career—working through complex international issues and balancing the interests of different stakeholders—the more often I find myself thinking of her advice. Whenever I begin to doubt myself, I return to her words. They remind me to trust my own judgment, stay true to my convictions, and have the courage to become the person I truly want to be.
 
-Looking back, that brief conversation on Orange Isle may have shaped my life far more than either of us could have imagined. And Luoguihua will continue to live on—in my memories, and in all the love I carry for her in my heart.
+Looking back, that brief conversation on Orange Isle may have shaped my life far more than either of us could have imagined. And Luoguihua will continue to live on—in my memories, in my beliefs, and in all the love I carry for her in my heart.
